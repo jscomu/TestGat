@@ -3,7 +3,7 @@ module.exports = {
     title: `블로그 시작 테스트`,
     author: {
       name: `JSKim`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `초보 블로거, 기술 블로그 운영합니다.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
