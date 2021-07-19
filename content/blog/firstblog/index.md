@@ -1,5 +1,5 @@
 ---
-title: 우리동네 맛집
+title: 동네 맛집
 date: "2021-07-01T22:12:03.284Z"
 description: "맛집을 ABCD abcd 소개합니다."
 ---
