@@ -5,7 +5,7 @@ description: "Excel VSTO 개발 시작 예제 설명입니다."
 ---
 
 ### Excel VSTO 예제
-Excel 추가 기능이 필요하고 VSTO를 처음 개발하시는 분들을 위해 시작하기 위한 예제
+Excel 추가 기능이 필요하고 VSTO를 처음 개발하시는 분들을 위한 예제
 
 > 개발툴 : Visual Studio 2010
 
