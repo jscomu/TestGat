@@ -1,6 +1,6 @@
 ---
 title: 통신과정 모형
-date: "2021-07-28T22:12:03.284Z"
+date: "2021-07-28T21:01:13.284Z"
 description: "쉐논(Schannon)과 슈람(Schramm)의 통신과정 모형"
 ---
 
