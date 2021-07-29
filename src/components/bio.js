@@ -49,8 +49,6 @@ const Bio = () => {
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             Twitter
           </a>
-          <br></br>
-          <a href='/src/pages/about'>About</a>
         </p>
       )}
     </div>
