@@ -10,5 +10,6 @@ const BlogAbout = () => {
         </Layout>
     )
 }
-*/
+
 export default BlogAbout
+*/
