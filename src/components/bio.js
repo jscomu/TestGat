@@ -50,7 +50,7 @@ const Bio = () => {
             Twitter
           </a>
           <br></br>
-          <a href='/src/pages/about'>About</a>
+          <a href='/src/pages/about.js'>About</a>
         </p>
       )}
     </div>
