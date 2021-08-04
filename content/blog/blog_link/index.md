@@ -9,4 +9,5 @@ description: "주요 링크 모음"
 - 로고 아이콘 만들기
 [logomakr](https://logomakr.com/)
 
-
+- HTML 연습
+[w3schools](http://www.w3schools.com/){:target="_blank"}
