@@ -10,4 +10,5 @@ description: "주요 링크 모음"
 [logomakr](https://logomakr.com/)
 
 - HTML 연습
-[w3schools](http://www.w3schools.com/){:target="_blank"}
+[w3schools](http://www.w3schools.com/)
+<a href="http://www.w3schools.com/" target="_blank">w3schools(new)</a>
