@@ -12,3 +12,10 @@ description: "주요 링크 모음"
 - HTML 연습
 [w3schools](http://www.w3schools.com/)
 <a href="http://www.w3schools.com/" target="_blank">w3schools(new)</a>
+
+- HTML 연습
+[w3schools](http://www.w3schools.com/)
+<br><a href="http://www.w3schools.com/" target="_blank">w3schools(new)</a>
+
+- Padlet
+<a href="http://www.padlet.com/" target="_blank">Padlet(new)</a>
