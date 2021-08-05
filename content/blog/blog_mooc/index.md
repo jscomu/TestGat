@@ -19,11 +19,11 @@ description: "MOOC (Massive Open Online Course)"
 
 ![img](MOOC.png "MOOC")
 
-##### * 대표적 MOOC 플랫폼
-- UDACITY
-- COURSERA
-- edX
+##### 대표적 MOOC 플랫폼
+    - UDACITY
+    - COURSERA
+    - edX
 
-##### * 국내 유명 MOOC
-- KOCW (Korea Open CourseWare)
-- K-MOOC
+##### 국내 유명 MOOC
+    - KOCW (Korea Open CourseWare)
+    - K-MOOC
