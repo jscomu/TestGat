@@ -14,7 +14,7 @@ const AboutPage = ({ location, data }) => (
   <Layout location={location} title={data.site.siteMetadata.title}>
     <Seo title="About" />
     <h1>About Me</h1>
-    <p><img src={ require('../images/cnt.jpg') } /></p>
+    <p><img src={ require('/brg.jpg') } /></p>
     <p>
         안녕하세요<br/>
         다양한 정보를 공유하는 블로그입니다.
