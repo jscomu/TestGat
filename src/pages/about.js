@@ -10,13 +10,14 @@ import Seo from "../components/seo"
 
 import imgA from '../images/sunset.jpg';
 //import imgA from '../../public/brg.jpg';
+import imgB from '../images/cnt.jpg';
 
 const AboutPage = ({ location, data }) => (
   <Layout location={location} title={data.site.siteMetadata.title}>
     <Seo title="About" />
     <h1>About Me</h1>
     <div className="aboutstyle">
-    <p><img alt="iPhone_01" src="/brg.jpg" width='600' height='400'/></p>
+    <p><img alt="iPhone_01" src={imgB} width='600' height='400'/></p>
     <p>
         안녕하세요<br/>
         다양한 정보를 공유하는 블로그입니다.
