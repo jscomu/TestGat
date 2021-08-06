@@ -10,7 +10,7 @@ import Seo from "../components/seo"
 
 import imgA from '../images/sunset.jpg';
 //import imgA from '../../public/brg.jpg';
-import imgB from '../images/cnt.jpg';
+import imgB from '../images/brg.jpg';
 
 const AboutPage = ({ location, data }) => (
   <Layout location={location} title={data.site.siteMetadata.title}>
