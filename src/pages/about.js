@@ -12,7 +12,7 @@ const AboutPage = ({ location, data }) => (
   <Layout location={location} title={data.site.siteMetadata.title}>
     <Seo title="About" />
     <h1>About Me</h1>
-    <p>사진</p>
+    <p><img src='/src/images/cnt.jpg'>사진</img></p>
     <p>
         안녕하세요<br/>
         다양한 정보를 공유하는 블로그입니다.
