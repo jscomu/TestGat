@@ -6,6 +6,8 @@ description: "검색 엔진 최적화 (search engine optimization)"
 
 ### 검색 엔진 최적화
 
+    Search Engine Optimization
+
 검색 엔진으로부터 웹사이트나 웹페이지에 대한 웹사이트 트래픽의 품질과 양을 개선하는 과정
 
 각종 검색 엔진에 내 글을 효과적으로 싣고 널리 알릴 수 있도록 웹 페이지를 구성해서 검색 결과의 상위에 오르게 하는 작업
