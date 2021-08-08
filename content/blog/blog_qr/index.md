@@ -10,6 +10,10 @@ description: "QR 코드란? QR 코드 생성"
 
 2차원 매트릭스 형태의 바코드
 
-### Generate QR Code 
+### Generate QR Code
 
 [생성](https://me-qr.com/)
+
+### go to my blog
+
+![url](qrcode_url.png "blog url"){: width="100" height="100"}
