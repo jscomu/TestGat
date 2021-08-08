@@ -12,7 +12,7 @@ description: "QR 코드란? QR 코드 생성"
 
 ### Generate QR Code
 
-[생성](https://me-qr.com/)
+생성 사이트 바로가기 : [Generate QR](https://me-qr.com/)
 
 ### go to my blog
 
