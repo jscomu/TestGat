@@ -16,6 +16,8 @@ description: "QR 코드란? QR 코드 생성"
 
 ### go to my blog
 
-<img src="qrcode_url.png" width=100 height=100>
+<img src="qrcode_url.png" width=50% height=50%>
 
+<!--
 ![url](qrcode_url.png "blog url")
+-->
